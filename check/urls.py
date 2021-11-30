@@ -8,3 +8,4 @@ urlpatterns = [
     path('s-sql-inection', sqlsafe),
     path('u-sql-inection', sqlunsafe)
 ]
+#check
